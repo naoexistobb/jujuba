@@ -6,10 +6,10 @@ module.exports = {
   start() {
     try {
       
-      mongoCurrency.connect('mongodb+srv://admin:admin@cluster0.uc0cy.mongodb.net/banksarty?retryWrites=true&w=majority');
+      mongoCurrency.connect(process.env.MONGOURL);
       console.log(c.red('[ ECONOMIA ] - SISTEMA CARREGADO'))
 
-      mongoose.connect('mongodb+srv://admin:admin@cluster0.uc0cy.mongodb.net/banksarty?retryWrites=true&w=majority');
+      mongoose.connect(process.env.MONGOURL);
 
       console.log(c.red(`[ MONGODB ] - CONECTADO A DATABASE.`));
     } catch (err) {
