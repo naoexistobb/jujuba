@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
     <a href="https://app.codacy.com/gh/sebastianjnuwu/KellyWorld?utm_source=github.com&utm_medium=referral&utm_content=sebastianjnuwu/KellyWorld&utm_campaign=Badge_Grade_Settings"><img alt="Codacy" src="https://api.codacy.com/project/badge/Grade/9be2adb645f84f718c9ad133e8e4c4f8"/></a>
-  <a href="https://discord.gg/DgsGnXKp"><img src="https://discord.com/api/guilds/968570313027780638/widget.png"></a>
+  <a href="https://discord.gg/DgsGnXKp">Discord</a>
 </p>
 
 # 🔍 commands 
