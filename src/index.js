@@ -2,7 +2,6 @@ const Client = require('./structures/Client')
 
 const client = new Client()
 
-client.login('OTcwMTM0MDkwMTUyMDM0MzU0.Ym3hxw.-XcdNjaabHYKchcfgJxXJAZk9dM')
 
 const cfonts = require('cfonts');
 const banner = cfonts.render((`GRATIAN HOST`), {
