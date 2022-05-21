@@ -69,10 +69,6 @@ process.on('multipleResolves', (type, promise, reason) => {
         console.log(' [ ANTICLASH ] | VÁRIOS ERROS');
         console.log(type, promise, reason);
     });
-
-//OTYwMzQ0MDkwMjQxNzk4MTU1.GnSqSY.9n7uByWIV-WF5h7veTH_cbPrLeCXDE-R7gd-GY
-
-//OTcwMTM0MDkwMTUyMDM0MzU0.Ym3hxw.-XcdNjaabHYKchcfgJxXJAZk9dM
 module.exports = {
   Util: require("./src/util/index.js"),
 };
